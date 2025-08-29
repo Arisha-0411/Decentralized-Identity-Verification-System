@@ -6,7 +6,7 @@ pragma solidity ^0.8.19;
  * @dev A smart contract for managing decentralized identity verification
  * @author Your Name
  */
-contract Project {
+ contract Project {
     
     // Struct to store identity information
     struct Identity {
